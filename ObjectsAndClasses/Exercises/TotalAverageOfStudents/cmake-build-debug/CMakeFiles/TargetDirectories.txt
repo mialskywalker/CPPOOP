@@ -1,0 +1,3 @@
+C:/Projects/CPPOOP/ObjectsAndClasses/Exercises/TotalAverageOfStudents/cmake-build-debug/CMakeFiles/TotalAverageOfStudents.dir
+C:/Projects/CPPOOP/ObjectsAndClasses/Exercises/TotalAverageOfStudents/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CPPOOP/ObjectsAndClasses/Exercises/TotalAverageOfStudents/cmake-build-debug/CMakeFiles/rebuild_cache.dir
