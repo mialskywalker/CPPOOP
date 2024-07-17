@@ -1,0 +1,3 @@
+C:/Projects/CPPOOP/ObjectsAndClassesAdvanced/Exercises/BytesParsing/cmake-build-debug/CMakeFiles/BytesParsing.dir
+C:/Projects/CPPOOP/ObjectsAndClassesAdvanced/Exercises/BytesParsing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CPPOOP/ObjectsAndClassesAdvanced/Exercises/BytesParsing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

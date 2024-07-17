@@ -1,0 +1,3 @@
+C:/Projects/CPPOOP/ObjectsAndClassesAdvanced/Exercises/Lectures/cmake-build-debug/CMakeFiles/LecturesMain.cpp.dir
+C:/Projects/CPPOOP/ObjectsAndClassesAdvanced/Exercises/Lectures/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CPPOOP/ObjectsAndClassesAdvanced/Exercises/Lectures/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+# ninja log v6
+3	192	7423932604337829	build.ninja	6c7ada554bb9ecfb
+8	691	7429074742114789	CMakeFiles/Resources.dir/ResourcesMain.cpp.obj	eefbc5108a8750ce
+692	938	7429074748960348	Resources.exe	d2656c54c244b21e
+5	548	7429075103309442	CMakeFiles/Resources.dir/ResourcesMain.cpp.obj	eefbc5108a8750ce
+548	638	7429075108744648	Resources.exe	d2656c54c244b21e
