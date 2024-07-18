@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Projects/CPPOOP/Demo/cmake-build-debug"
+			"value" : "c:/Projects/CPPOOP/CodeOrganizationAndTemplates/Censorship/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Projects/CPPOOP/Demo/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Projects/CPPOOP/CodeOrganizationAndTemplates/Censorship/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Projects/CPPOOP/Demo"
+			"value" : "C:/Projects/CPPOOP/CodeOrganizationAndTemplates/Censorship"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Demo"
+			"value" : "C:/Program Files (x86)/Censorship"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -687,7 +687,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/ninja/win/x64/ninja.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2024.1.4/bin/ninja/win/x64/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Demo"
+			"value" : "Censorship"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1270,7 +1270,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Demo_BINARY_DIR",
+			"name" : "Censorship_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1279,10 +1279,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Projects/CPPOOP/Demo/cmake-build-debug"
+			"value" : "C:/Projects/CPPOOP/CodeOrganizationAndTemplates/Censorship/cmake-build-debug"
 		},
 		{
-			"name" : "Demo_IS_TOP_LEVEL",
+			"name" : "Censorship_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1294,7 +1294,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Demo_SOURCE_DIR",
+			"name" : "Censorship_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Projects/CPPOOP/Demo"
+			"value" : "C:/Projects/CPPOOP/CodeOrganizationAndTemplates/Censorship"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

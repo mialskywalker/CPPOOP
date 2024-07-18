@@ -1,0 +1,3 @@
+C:/Projects/CPPOOP/CodeOrganizationAndTemplates/Censorship/cmake-build-debug/CMakeFiles/CensorshipMain.cpp.dir
+C:/Projects/CPPOOP/CodeOrganizationAndTemplates/Censorship/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CPPOOP/CodeOrganizationAndTemplates/Censorship/cmake-build-debug/CMakeFiles/rebuild_cache.dir

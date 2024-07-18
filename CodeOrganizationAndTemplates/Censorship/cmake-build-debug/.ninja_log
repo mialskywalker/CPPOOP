@@ -1,0 +1,11 @@
+# ninja log v6
+2	199	7430251933511055	build.ninja	8aa5ab64a39aa703
+2	464	7430198501403087	CMakeFiles/Censorship.dir/CensorshipMain.cpp.obj	a3351cc25110b086
+2	49	7430252040756200	CMakeFiles/CensorshipMain.cpp.dir/Article13Filter.cpp.obj	9516e75b1fc322ae
+6	488	7430252040796193	CMakeFiles/CensorshipMain.cpp.dir/CensorshipMain.cpp.obj	350007c4259ad35c
+5	359	7430253912023846	CMakeFiles/CensorshipMain.cpp.dir/Article13Filter.cpp.obj	9516e75b1fc322ae
+5	364	7430254115711817	CMakeFiles/CensorshipMain.cpp.dir/Article13Filter.cpp.obj	9516e75b1fc322ae
+6	380	7430254690027611	CMakeFiles/CensorshipMain.cpp.dir/Article13Filter.cpp.obj	9516e75b1fc322ae
+381	468	7430254693773795	CensorshipMain.cpp.exe	bbf697a185a2c11a
+5	410	7430257942943173	CMakeFiles/CensorshipMain.cpp.dir/Article13Filter.cpp.obj	9516e75b1fc322ae
+411	500	7430257946999753	CensorshipMain.cpp.exe	bbf697a185a2c11a
