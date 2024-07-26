@@ -1,25 +1,53 @@
 #include <iostream>
-#include <vector>
+#include <string>
+#include <stack>
 
 using namespace std;
 
+bool checkValid(stack<char> &st, char expected) {
+    if (st.size() == 0)
+        return false;
+    if (st.top() != expected)
+        return false;
+    st.pop();
+    return true;
+}
+
 int main() {
-    string s = "A man, a plan, a canal: Panama";
-    string newString;
+    stack<char> st;
+    string line;
+    getline(cin, line);
 
-    for (char l : s)
-        if (isalnum(l))
-            newString += tolower(l);
+    bool isValid = true;
 
-    int k = newString.length() - 1;
-    for (int i = 0; i < newString.length() / 2; i++) {
-        if (newString[i] != newString[k]) {
-            cout << "false" << endl;
-            break;
+    string::iterator itS = line.begin();
+
+    for (; isValid && itS != line.end(); itS++) {
+        switch (*itS) {
+            case '(':
+            case '[':
+            case '{':
+                st.push(*itS);
+                break;
+            case ')':
+                if (!checkValid(st, '('))
+                    isValid = false;
+                break;
+            case ']':
+                if (!checkValid(st, '['))
+                    isValid = false;
+                break;
+            case '}':
+                if (!checkValid(st, '{'))
+                    isValid = false;
+                break;
         }
-        k--;
     }
 
+    if (isValid) {
+        if (st.size() != 0)
+            isValid = false;
+    }
 
-    cout << "true";
+    cout << (isValid ? "Yes" : "No") << endl;
 }

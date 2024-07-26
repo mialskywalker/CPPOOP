@@ -1,0 +1,13 @@
+# ninja log v6
+1	473	7437177262090770	CMakeFiles/Echo.dir/EchoMain.cpp.obj	af3e0ae26bbd625b
+5	372	7437177566614121	CMakeFiles/Echo.dir/EmailContact.cpp.obj	6b43923fee63c58e
+5	447	7437177762487537	CMakeFiles/Echo.dir/EchoMain.cpp.obj	af3e0ae26bbd625b
+5	442	7437178078344502	CMakeFiles/Echo.dir/EchoMain.cpp.obj	af3e0ae26bbd625b
+5	449	7437178416536549	CMakeFiles/Echo.dir/EchoMain.cpp.obj	af3e0ae26bbd625b
+9	485	7437178416581636	CMakeFiles/Echo.dir/ContactManagerUI.cpp.obj	3590c677c273b217
+485	571	7437178421345645	Echo.exe	72c55e2af087de65
+4	420	7437179773156151	CMakeFiles/Echo.dir/EchoMain.cpp.obj	af3e0ae26bbd625b
+8	468	7437179773196129	CMakeFiles/Echo.dir/ContactManagerUI.cpp.obj	3590c677c273b217
+6	444	7437179945132414	CMakeFiles/Echo.dir/EchoMain.cpp.obj	af3e0ae26bbd625b
+9	489	7437179945172400	CMakeFiles/Echo.dir/ContactManagerUI.cpp.obj	3590c677c273b217
+489	573	7437179949974328	Echo.exe	72c55e2af087de65
