@@ -1,0 +1,9 @@
+# ninja log v6
+1	338	7437939088839369	CMakeFiles/TryParse.dir/main.cpp.obj	8ec3113ed5ba2210
+340	438	7437939092226026	TryParse.exe	2387cdf64200c0dc
+5	348	7437940259133750	CMakeFiles/TryParse.dir/main.cpp.obj	8ec3113ed5ba2210
+349	435	7437940262578717	TryParse.exe	2387cdf64200c0dc
+5	358	7437941478926426	CMakeFiles/TryParse.dir/main.cpp.obj	8ec3113ed5ba2210
+358	433	7437941482450983	TryParse.exe	2387cdf64200c0dc
+5	359	7437942100081441	CMakeFiles/TryParse.dir/main.cpp.obj	8ec3113ed5ba2210
+359	432	7437942103625010	TryParse.exe	2387cdf64200c0dc

@@ -1,0 +1,15 @@
+# ninja log v6
+3	203	7437995908772656	build.ninja	2fbc75366ede718c
+1	521	7438009468225451	CMakeFiles/Profits.dir/ProfitsMain.cpp.obj	aa806a785ba0eb84
+5	538	7438009549207027	CMakeFiles/Profits.dir/ProfitsMain.cpp.obj	aa806a785ba0eb84
+7	543	7438010200992924	CMakeFiles/Profits.dir/ProfitsMain.cpp.obj	aa806a785ba0eb84
+5	536	7438010294387171	CMakeFiles/Profits.dir/ProfitsMain.cpp.obj	aa806a785ba0eb84
+536	622	7438010299694611	Profits.exe	f1c5bd2772ba9070
+5	542	7438010363769068	CMakeFiles/Profits.dir/ProfitsMain.cpp.obj	aa806a785ba0eb84
+542	629	7438010369146605	Profits.exe	f1c5bd2772ba9070
+5	549	7438013570714598	CMakeFiles/Profits.dir/ProfitsMain.cpp.obj	aa806a785ba0eb84
+550	640	7438013576162137	Profits.exe	f1c5bd2772ba9070
+5	571	7438013755829430	CMakeFiles/Profits.dir/ProfitsMain.cpp.obj	aa806a785ba0eb84
+572	667	7438013761502244	Profits.exe	f1c5bd2772ba9070
+6	599	7438013860950647	CMakeFiles/Profits.dir/ProfitsMain.cpp.obj	aa806a785ba0eb84
+600	690	7438013866899080	Profits.exe	f1c5bd2772ba9070
