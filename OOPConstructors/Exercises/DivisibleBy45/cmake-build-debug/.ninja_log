@@ -1,0 +1,11 @@
+# ninja log v6
+3	425	7440624422383026	CMakeFiles/DivisibleBy45.dir/main.cpp.obj	1dfba7653fd574f1
+427	494	7440624426620043	DivisibleBy45.exe	1c44ec3697d1a117
+6	446	7440630958142132	CMakeFiles/DivisibleBy45.dir/main.cpp.obj	1dfba7653fd574f1
+447	524	7440630962546484	DivisibleBy45.exe	1c44ec3697d1a117
+7	454	7440632976030704	CMakeFiles/DivisibleBy45.dir/main.cpp.obj	1dfba7653fd574f1
+454	528	7440632980507078	DivisibleBy45.exe	1c44ec3697d1a117
+7	466	7440633439292363	CMakeFiles/DivisibleBy45.dir/main.cpp.obj	1dfba7653fd574f1
+466	538	7440633443884028	DivisibleBy45.exe	1c44ec3697d1a117
+6	467	7440633800986287	CMakeFiles/DivisibleBy45.dir/main.cpp.obj	1dfba7653fd574f1
+468	542	7440633805593596	DivisibleBy45.exe	1c44ec3697d1a117

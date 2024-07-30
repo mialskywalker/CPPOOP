@@ -1,0 +1,3 @@
+C:/Projects/CPPOOP/OOPConstructors/Exercises/Register/cmake-build-debug/CMakeFiles/Register.dir
+C:/Projects/CPPOOP/OOPConstructors/Exercises/Register/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CPPOOP/OOPConstructors/Exercises/Register/cmake-build-debug/CMakeFiles/rebuild_cache.dir

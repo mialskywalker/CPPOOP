@@ -1,0 +1,13 @@
+# ninja log v6
+2	206	7440599915306655	build.ninja	fec10cc1aeca5d9
+1	379	7440598311490883	CMakeFiles/Register.dir/RegisterMain.cpp.obj	2524842e474f062d
+5	369	7440603069432864	CMakeFiles/Register.dir/Register.cpp.obj	6a3e51db88f13c10
+369	459	7440603073083600	Register.exe	22c00a01ba1abaa6
+6	379	7440603863256482	CMakeFiles/Register.dir/Register.cpp.obj	6a3e51db88f13c10
+380	462	7440603866990777	Register.exe	22c00a01ba1abaa6
+5	359	7440606523230378	CMakeFiles/Register.dir/Register.cpp.obj	6a3e51db88f13c10
+360	439	7440606526778456	Register.exe	22c00a01ba1abaa6
+5	369	7440608848075248	CMakeFiles/Register.dir/Register.cpp.obj	6a3e51db88f13c10
+370	442	7440608851728168	Register.exe	22c00a01ba1abaa6
+5	364	7440609179736135	CMakeFiles/Register.dir/Register.cpp.obj	6a3e51db88f13c10
+364	437	7440609183331839	Register.exe	22c00a01ba1abaa6
