@@ -1,0 +1,11 @@
+# ninja log v6
+1	447	7442303577029800	CMakeFiles/MakeCompany.dir/MakeCompanyMain.cpp.obj	224696cdbdfc0c2c
+449	530	7442303581500963	MakeCompany.exe	135571d971b8d289
+5	480	7442309418865993	CMakeFiles/MakeCompany.dir/MakeCompanyMain.cpp.obj	224696cdbdfc0c2c
+480	575	7442309423615173	MakeCompany.exe	135571d971b8d289
+4	472	7442310124828937	CMakeFiles/MakeCompany.dir/MakeCompanyMain.cpp.obj	224696cdbdfc0c2c
+472	551	7442310129506725	MakeCompany.exe	135571d971b8d289
+5	515	7442314129866913	CMakeFiles/MakeCompany.dir/MakeCompanyMain.cpp.obj	224696cdbdfc0c2c
+515	600	7442314134969341	MakeCompany.exe	135571d971b8d289
+5	648	7442317206951232	CMakeFiles/MakeCompany.dir/MakeCompanyMain.cpp.obj	224696cdbdfc0c2c
+649	765	7442317213385165	MakeCompany.exe	135571d971b8d289

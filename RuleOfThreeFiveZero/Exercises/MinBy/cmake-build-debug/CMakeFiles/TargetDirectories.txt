@@ -1,0 +1,3 @@
+C:/Projects/CPPOOP/RuleOfThreeFiveZero/Exercises/MinBy/cmake-build-debug/CMakeFiles/MinBy.dir
+C:/Projects/CPPOOP/RuleOfThreeFiveZero/Exercises/MinBy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CPPOOP/RuleOfThreeFiveZero/Exercises/MinBy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
