@@ -36,19 +36,30 @@ public:
     Person() {
         name = "<unknown>";
     }
+
+    // Method inside the class
+    string getInfo() {
+        ostringstream os;
+        os << this->name << ": " << this->age << " years old, " << this->body.height << "cm tall, " << this->body.weight << "kgs." << endl;
+        return os.str();
+    }
+
+    void makeOlder(int years) {
+        this->age += years;
+    }
 };
 
-string printPersonInfo(Person& p) {
-    ostringstream os;
-    os << p.name << ": " << p.age << " years old, " << p.body.height << "cm tall, " << p.body.weight << "kgs." << endl;
-    return os.str();
-}
+
 
 int main() {
     Person p("Gosho", 12, 171, 65);
     Person gosho;
-    cout << printPersonInfo(p);
-    cout << printPersonInfo(gosho);
+    cout << "Before: " << p.getInfo();
+    p.makeOlder(1);
+    cout << "After: " << p.getInfo();
+    cout << "Before: " << gosho.getInfo();
+    gosho.makeOlder(15);
+    cout << "After: " << gosho.getInfo();
 
     return 0;
 }
