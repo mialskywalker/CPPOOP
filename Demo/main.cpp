@@ -1,65 +1,33 @@
 #include <iostream>
-#include <vector>
-#include <string>
-#include <sstream>
+#include <cmath>
+#include <iomanip>
 
 using namespace std;
 
-class SentenceShifter {
-    typedef vector<string> WordData;
+class EuclideanDistance {
 
-    WordData data;
+    int x1;
+    int y1;
+    int x2;
+    int y2;
 
 public:
-    SentenceShifter(WordData data) : data(data) {}
+    EuclideanDistance(int x1, int y1, int x2, int y2) : x1(x1), y1(y1), x2(x2), y2(y2) {}
 
-    SentenceShifter() {
-        data = WordData{};
+    double calculateDistance() {
+        return sqrt(pow(x2-x1, 2)+ pow(y2-y1, 2));
     }
 
-    void pushData(string word) {
-        this->data.push_back(word);
+    void getDistance() {
+        cout.setf(ios::fixed);
+        cout.precision(3);
+        cout << calculateDistance() << endl;
     }
-
-    void shiftData(int times) {
-        while (times--) {
-            string curr = this->data.back();
-            this->data.pop_back();
-            this->data.insert(this->data.begin(), curr);
-        }
-    }
-
-    string printData() {
-        ostringstream os;
-        bool bFirst = true;
-        for (string el : this->data) {
-            if (bFirst) {
-                os << el;
-                bFirst = false;
-            }
-            else {
-                os << endl << el;
-            }
-        }
-        return os.str();
-    }
-
-
 };
 
 int main() {
-
-    SentenceShifter sh;
-    string text;
-    getline(cin, text);
-    istringstream istr(text);
-    string word;
-    while (istr >> word)
-        sh.pushData(word);
-
-    int num;
-    cin >> num;
-    sh.shiftData(num);
-    cout << sh.printData();
-
+    int x1, y1, x2, y2;
+    cin >> x1 >> y1 >> x2 >> y2;
+    EuclideanDistance ed(x1, y1, x2, y2);
+    ed.getDistance();
 }
