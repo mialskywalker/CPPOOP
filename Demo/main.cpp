@@ -1,33 +1,70 @@
-#include <iostream>
-#include <cmath>
 #include <iomanip>
+#include <iostream>
+#include <vector>
+#include <map>
+#include <sstream>
 
 using namespace std;
 
-class EuclideanDistance {
-
-    int x1;
-    int y1;
-    int x2;
-    int y2;
+class Sale {
+    string town;
+    string product;
+    double price;
+    double quantity;
 
 public:
-    EuclideanDistance(int x1, int y1, int x2, int y2) : x1(x1), y1(y1), x2(x2), y2(y2) {}
+    Sale(string town, string product, double price, double quantity):
+        town(town),
+        product(product),
+        price(price),
+        quantity(quantity) {}
 
-    double calculateDistance() {
-        return sqrt(pow(x2-x1, 2)+ pow(y2-y1, 2));
+    string getTown() { return this->town; }
+    double getProductPrice() { return this->price * this->quantity; }
+};
+
+class Sales {
+    typedef vector<Sale> SaleData;
+    SaleData data;
+    map<string, double> salesByTown;
+
+public:
+    Sales(istream & istr) {
+        int n;
+        istr >> n;
+        istr.ignore();
+
+        string town, product;
+        double price;
+        double quantity;
+
+        while(n--) {
+            istr >> town >> product >> price >> quantity;
+            data.push_back(Sale(town, product, price, quantity));
+        }
     }
 
-    void getDistance() {
-        cout.setf(ios::fixed);
-        cout.precision(3);
-        cout << calculateDistance() << endl;
+    void calculateByTown() {
+        salesByTown.clear();
+        for (Sale & cur : data) {
+            const string & town = cur.getTown();
+            salesByTown[town] += cur.getProductPrice();
+        }
     }
+
+    string printSales(){
+        ostringstream os;
+        os << fixed << setprecision(2);
+        for (pair<string, double> c: salesByTown)
+            os << c.first << " -> " << c.second << endl;
+        return os.str();
+    }
+
 };
 
 int main() {
-    int x1, y1, x2, y2;
-    cin >> x1 >> y1 >> x2 >> y2;
-    EuclideanDistance ed(x1, y1, x2, y2);
-    ed.getDistance();
+    Sales sales(cin);
+    sales.calculateByTown();
+    cout << sales.printSales();
+
 }
