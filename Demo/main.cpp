@@ -1,53 +1,52 @@
 #include <iostream>
 #include <string>
-#include <stack>
+#include <sstream>
+#include <vector>
 
 using namespace std;
 
-bool checkValid(stack<char> &st, char expected) {
-    if (st.size() == 0)
-        return false;
-    if (st.top() != expected)
-        return false;
-    st.pop();
-    return true;
+class SentenceShifter {
+private:
+    typedef vector<string> WordData;
+    WordData data;
+
+public:
+    void readData(istream & is);
+    void getShiftedSentence(int n);
+    void outData(ostream & os);
+
+};
+
+void SentenceShifter::readData(istream &is) {
+    string buff;
+    getline(cin, buff);
+    istringstream istr(buff);
+    while(istr >> buff) {
+        data.push_back(buff);
+    }
 }
 
+void SentenceShifter::outData(ostream &os) {
+    for (string el : data)
+        os << el << endl;
+}
+
+void SentenceShifter::getShiftedSentence(int n) {
+    for (int i = 0; i < n; i++) {
+        string word = data.back();
+        data.pop_back();
+        data.insert(data.begin(), word);
+    }
+}
+
+
+
+
 int main() {
-    stack<char> st;
-    string line;
-    getline(cin, line);
-
-    bool isValid = true;
-
-    string::iterator itS = line.begin();
-
-    for (; isValid && itS != line.end(); itS++) {
-        switch (*itS) {
-            case '(':
-            case '[':
-            case '{':
-                st.push(*itS);
-                break;
-            case ')':
-                if (!checkValid(st, '('))
-                    isValid = false;
-                break;
-            case ']':
-                if (!checkValid(st, '['))
-                    isValid = false;
-                break;
-            case '}':
-                if (!checkValid(st, '{'))
-                    isValid = false;
-                break;
-        }
-    }
-
-    if (isValid) {
-        if (st.size() != 0)
-            isValid = false;
-    }
-
-    cout << (isValid ? "Yes" : "No") << endl;
+    SentenceShifter sh;
+    sh.readData(cin);
+    int times;
+    cin >> times;
+    sh.getShiftedSentence(times);
+    sh.outData(cout);
 }

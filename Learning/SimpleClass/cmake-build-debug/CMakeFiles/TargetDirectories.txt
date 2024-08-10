@@ -1,0 +1,3 @@
+C:/Projects/CPPOOP/Learning/SimpleClass/cmake-build-debug/CMakeFiles/SimpleClass.dir
+C:/Projects/CPPOOP/Learning/SimpleClass/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CPPOOP/Learning/SimpleClass/cmake-build-debug/CMakeFiles/rebuild_cache.dir
