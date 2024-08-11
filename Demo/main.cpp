@@ -1,55 +1,28 @@
-#include <iomanip>
 #include <iostream>
 #include <vector>
-#include <map>
-#include <sstream>
 
 using namespace std;
 
-class Student {
-    string name;
-    string surname;
-    double average;
+void duplicateZeros(vector<int>& arr) {
+    int n = arr.size();
+    vector<int> result;
 
-public:
-    Student(string name, string surname, double average) :
-        name(name),
-        surname(surname),
-        average(average) {}
-
-    double getAverage() { return this->average; }
-
-    string printInfo() {
-        ostringstream os;
-        os << this->name << ' ' << this->surname << ' ' << this->average << endl;
-        return os.str();
+    for (int i = 0; i < n; i++) {
+        if (arr[i] == 0) {
+            result.push_back(arr[i]);
+            result.push_back(0);
+        }
+        else {
+            result.push_back(arr[i]);
+        }
     }
-};
+    for (int i = 0; i < n; i++) {
+        arr[i] = result[i];
+    }
+
+}
 
 int main() {
-    vector<Student> students;
-
-    int n;
-    cin >> n;
-    if (n < 1) {
-        cout << "Invalid input" << endl;
-        return 0;
-    }
-
-    string name, surname;
-    double avg;
-    while (n--) {
-        cin >> name >> surname >> avg;
-        students.push_back(Student(name, surname, avg));
-    }
-
-    double total = 0;
-    for (Student s : students) {
-        cout << s.printInfo();
-        total += s.getAverage();
-    }
-
-    total /= students.size();
-    cout << total << endl;
-
+    vector<int> arr {1,0,2,3,0,4,5,0};
+    duplicateZeros(arr);
 }
