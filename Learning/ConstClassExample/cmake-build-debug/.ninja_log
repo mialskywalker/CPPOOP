@@ -1,0 +1,5 @@
+# ninja log v6
+4	470	7451444602652775	CMakeFiles/ConstClassExample.dir/main.cpp.obj	349e0b57f78e54ca
+472	562	7451444607326815	ConstClassExample.exe	f0ba9f10cf0d7366
+7	409	7451444660461789	CMakeFiles/ConstClassExample.dir/main.cpp.obj	349e0b57f78e54ca
+409	481	7451444664482657	ConstClassExample.exe	f0ba9f10cf0d7366

@@ -1,0 +1,3 @@
+C:/Projects/CPPOOP/Learning/Namespaces/cmake-build-debug/CMakeFiles/Namespaces.dir
+C:/Projects/CPPOOP/Learning/Namespaces/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CPPOOP/Learning/Namespaces/cmake-build-debug/CMakeFiles/rebuild_cache.dir
