@@ -1,9 +1,9 @@
 # ninja log v6
-2	204	7451656222348301	build.ninja	338a7684ba0ea0f2
-5	348	7451655608321170	CMakeFiles/Demo.dir/main.cpp.obj	18dd2eb5aace4af5
-348	414	7451655611739886	Demo.exe	4f4f3580eccb19e9
+2	204	7451764442084727	build.ninja	338a7684ba0ea0f2
+5	439	7451715491551478	CMakeFiles/Demo.dir/main.cpp.obj	18dd2eb5aace4af5
+554	653	7451762117242470	Demo.exe	36b8829b18566b78
 2	1449	7451652211239122	CMakeFiles/Demo.dir/RollingSticksMain.cpp.obj	c87ca94f67457ae3
-5	370	7451656347539999	CMakeFiles/Demo.dir/main.cpp.obj	18dd2eb5aace4af5
-370	442	7451656351187754	Demo.exe	4f4f3580eccb19e9
-6	373	7451656565870346	CMakeFiles/Demo.dir/main.cpp.obj	18dd2eb5aace4af5
-374	446	7451656569552204	Demo.exe	4f4f3580eccb19e9
+2	360	7451720803814030	CMakeFiles/Demo.dir/CarMain.cpp.obj	170319fee4ee277b
+5	426	7451727070045422	CMakeFiles/Demo.dir/Main.cpp.obj	4abd6a50dd5ce1c
+5	452	7451732328387097	CMakeFiles/Demo.dir/OperatorsMain.cpp.obj	7fbab3513793fa31
+2	552	7451762111713308	CMakeFiles/Demo.dir/ResourcesMain.cpp.obj	b46dd32fd7a58bba

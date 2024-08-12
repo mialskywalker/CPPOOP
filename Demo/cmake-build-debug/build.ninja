@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Projects/CPPOOP/Demo/cmake-build-debug/
 
 build cmake_object_order_depends_target_Demo: phony || CMakeFiles/Demo.dir
 
-build CMakeFiles/Demo.dir/main.cpp.obj: CXX_COMPILER__Demo_unscanned_Debug C$:/Projects/CPPOOP/Demo/main.cpp || cmake_object_order_depends_target_Demo
-  DEP_FILE = CMakeFiles\Demo.dir\main.cpp.obj.d
+build CMakeFiles/Demo.dir/LecturesMain.cpp.obj: CXX_COMPILER__Demo_unscanned_Debug C$:/Projects/CPPOOP/Demo/LecturesMain.cpp || cmake_object_order_depends_target_Demo
+  DEP_FILE = CMakeFiles\Demo.dir\LecturesMain.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Demo.dir
   OBJECT_FILE_DIR = CMakeFiles\Demo.dir
@@ -63,7 +63,7 @@ build CMakeFiles/Demo.dir/main.cpp.obj: CXX_COMPILER__Demo_unscanned_Debug C$:/P
 #############################################
 # Link the executable Demo.exe
 
-build Demo.exe: CXX_EXECUTABLE_LINKER__Demo_Debug CMakeFiles/Demo.dir/main.cpp.obj
+build Demo.exe: CXX_EXECUTABLE_LINKER__Demo_Debug CMakeFiles/Demo.dir/LecturesMain.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Demo.dir
