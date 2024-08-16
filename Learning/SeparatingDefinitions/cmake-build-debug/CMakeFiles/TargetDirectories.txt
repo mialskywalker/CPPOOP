@@ -1,0 +1,3 @@
+C:/Projects/CPPOOP/Learning/SeparatingDefinitions/cmake-build-debug/CMakeFiles/SeparatingDefinitions.dir
+C:/Projects/CPPOOP/Learning/SeparatingDefinitions/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CPPOOP/Learning/SeparatingDefinitions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

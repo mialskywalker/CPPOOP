@@ -1,0 +1,3 @@
+C:/Projects/CPPOOP/Learning/CopyDeleteConstructors/cmake-build-debug/CMakeFiles/CopyDeleteConstructors.dir
+C:/Projects/CPPOOP/Learning/CopyDeleteConstructors/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CPPOOP/Learning/CopyDeleteConstructors/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Projects/CPPOOP/RuleOfThreeFiveZero/Exercises/ArrayOfPointers/cmake-build-debug/CMakeFiles/ArrayOfPointers.dir
+C:/Projects/CPPOOP/RuleOfThreeFiveZero/Exercises/ArrayOfPointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CPPOOP/RuleOfThreeFiveZero/Exercises/ArrayOfPointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

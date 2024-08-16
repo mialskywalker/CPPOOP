@@ -1,0 +1,8 @@
+# ninja log v6
+1	403	7452360780567163	CMakeFiles/SeparatingDefinitions.dir/main.cpp.obj	d1705ff598dcfadd
+405	502	7452360784597093	SeparatingDefinitions.exe	46e89ce84ce56e73
+5	386	7452362310009309	CMakeFiles/SeparatingDefinitions.dir/main.cpp.obj	d1705ff598dcfadd
+6	356	7452362524922306	CMakeFiles/SeparatingDefinitions.dir/Company.cpp.obj	b020b170a742acef
+356	432	7452362528423056	SeparatingDefinitions.exe	f0c2a08e8ed01273
+4	322	7452363583059454	CMakeFiles/SeparatingDefinitions.dir/main.cpp.obj	d1705ff598dcfadd
+322	394	7452363586235227	SeparatingDefinitions.exe	f0c2a08e8ed01273

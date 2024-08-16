@@ -3,6 +3,6 @@ project(Demo)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Demo LecturesMain.cpp ResourceType.h
-        Resource.h
-        Lecture.h)
+add_executable(Demo ParseUniqueCompaniesMain.cpp
+        Company.h
+        ParseCompanies.h)
