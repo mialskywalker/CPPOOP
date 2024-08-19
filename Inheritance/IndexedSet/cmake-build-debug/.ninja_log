@@ -1,0 +1,8 @@
+# ninja log v6
+5	275	7456209473894360	CMakeFiles/IndexedSet.dir/IndexedSet.cpp.obj	9a15ee6a556da44a
+1	530	7456209473844361	CMakeFiles/IndexedSet.dir/main.cpp.obj	d465cb6182ae9c11
+531	618	7456209479146114	IndexedSet.exe	aadf0ac0f55406cb
+5	265	7456209853474286	CMakeFiles/IndexedSet.dir/IndexedSet.cpp.obj	9a15ee6a556da44a
+265	356	7456209856074947	IndexedSet.exe	aadf0ac0f55406cb
+5	273	7456211279886931	CMakeFiles/IndexedSet.dir/IndexedSet.cpp.obj	9a15ee6a556da44a
+273	367	7456211282566420	IndexedSet.exe	aadf0ac0f55406cb

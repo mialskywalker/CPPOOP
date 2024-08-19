@@ -1,0 +1,3 @@
+C:/Projects/CPPOOP/Polymorphism/Aggregators/cmake-build-debug/CMakeFiles/Aggregators.dir
+C:/Projects/CPPOOP/Polymorphism/Aggregators/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CPPOOP/Polymorphism/Aggregators/cmake-build-debug/CMakeFiles/rebuild_cache.dir

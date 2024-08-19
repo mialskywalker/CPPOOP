@@ -1,0 +1,8 @@
+# ninja log v6
+4	426	7457717129927613	CMakeFiles/PistolRound.dir/main.cpp.obj	b08b6f33fac57866
+6	336	7457721338123963	CMakeFiles/PistolRound.dir/Player.cpp.obj	8a8e1581dc93e80b
+379	466	7457730100422993	PistolRound.exe	c778cbfc3177b60a
+5	378	7457730096694810	CMakeFiles/PistolRound.dir/DesertEagle.cpp.obj	13e96cd173077888
+6	395	7457733447328325	CMakeFiles/PistolRound.dir/Player.cpp.obj	8a8e1581dc93e80b
+10	407	7457733447363418	CMakeFiles/PistolRound.dir/Glock.cpp.obj	22e76c0ee0b3b73f
+407	491	7457733451338092	PistolRound.exe	76ae0c9737e1a9a0

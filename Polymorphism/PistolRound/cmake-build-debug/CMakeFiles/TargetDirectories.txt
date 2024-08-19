@@ -1,0 +1,3 @@
+C:/Projects/CPPOOP/Polymorphism/PistolRound/cmake-build-debug/CMakeFiles/PistolRound.dir
+C:/Projects/CPPOOP/Polymorphism/PistolRound/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CPPOOP/Polymorphism/PistolRound/cmake-build-debug/CMakeFiles/rebuild_cache.dir

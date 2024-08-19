@@ -1,19 +1,23 @@
-#ifndef SORT_BY_H
-#define SORT_BY_H
+//
+// Created by uchih on 17/08/2024.
+//
+
+#ifndef SORTBY_H
+#define SORTBY_H
 
 #include "Company.h"
 #include <algorithm>
 
-void sortBy(Company** start, Company** end, bool (*func)(const Company& a, const Company& b)) {
-    struct SortFunc {
+void sortBy(Company** from, Company** to, bool (*func)(const Company& a, const Company& b)) {
+    struct SortF {
         bool(*func)(const Company& a, const Company& b);
-        SortFunc(bool(*func)(const Company& a, const Company& b)) : func(func) {}
+        SortF(bool(*func)(const Company& a, const Company& b)) : func(func) {}
 
         bool operator()(Company *first, Company *second) {
             return func(*first, *second);
         }
     };
-    std::sort(start, end, SortFunc(func));
+    std::sort(from, to, SortF(func));
 }
 
-#endif // !SORT_BY_H
+#endif //SORTBY_H

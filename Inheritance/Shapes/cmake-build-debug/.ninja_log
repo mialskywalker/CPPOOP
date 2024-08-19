@@ -1,0 +1,9 @@
+# ninja log v6
+3	201	7456012317161717	build.ninja	cbc77206494c8c83
+482	557	7456009474101650	Shapes.exe	66022e92d9d5ecf2
+5	46	7455993947604897	CMakeFiles/Shapes.dir/Constants.cpp.obj	d7b051430c2d756b
+5	500	7456011300777815	CMakeFiles/Shapes.dir/ShapesMain.cpp.obj	fe31a2f600adf8e6
+10	476	7456009089063845	CMakeFiles/Shapes.dir/Shape.cpp.obj	30b042d7f5b12d2d
+2	204	7456012317161717	build.ninja	cbc77206494c8c83
+5	472	7456012317421733	CMakeFiles/Shapes.dir/ShapesMain.cpp.obj	fe31a2f600adf8e6
+472	548	7456012322084243	Shapes.exe	b7f65dbc200dea5f

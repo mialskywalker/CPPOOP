@@ -1,0 +1,11 @@
+void sortBy(Company** from, Company** to, bool (*func)(const Company& a, const Company& b)) {
+    struct SortF {
+        bool(*func)(const Company& a, const Company& b);
+        SortF(bool(*func)(const Company& a, const Company& b)) : func(func) {}
+
+        bool operator()(Company *first, Company *second) {
+            return func(*first, *second);
+        }
+    };
+    std::sort(from, to, SortF(func));
+}

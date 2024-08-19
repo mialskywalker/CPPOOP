@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Ranges" targetName="Ranges" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69b08e2b-39d9-4c33-8fac-fcbb1f796209" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Demo/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Range.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Range.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuleOfThreeFiveZero/Exercises/InheritanceExample/.idea/InheritanceExample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08. Overloading Madness_Skeleton.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Company.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/ParseCompanies.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/ParseUniqueCompaniesMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-aa1512a7e0dbf354bd60.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-16T12-02-34-0057.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/cmake-build-debug/.cmake/api/v1/reply/target-Demo-Debug-17247f5ec992d008b1ab.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/cmake-build-debug/CMakeFiles/Demo.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/cmake-build-debug/CMakeFiles/Demo.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/cmake-build-debug/Demo.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/cmake-build-debug/Demo.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-59500c38ca69520507ad.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-8bd6fb1243d1e38b3719.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-09T09-24-53-0162.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Ranges-Debug-5b4178245563088b02fc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Ranges.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Ranges.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Ranges.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Ranges.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/.idea/Snake.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/CommandExecutor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/CommandExecutor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/Defines.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/Field.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/Field.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/Snake.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/Structs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/.cmake/api/v1/reply/cache-v2-8f88bb70d1adb12db312.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-2258b9a1a5e65fe5447d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-6076ab891a816cdc7b76.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-08T11-04-25-0561.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/.cmake/api/v1/reply/target-Snake-Debug-168a61d2b2607b187753.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-048c58cdcfa38ecd57f9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/CMakeFiles/3.28.1/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortPointers/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortPointers/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortPointers/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortPointers/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SortPointers/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortPointers/SortBy.h" beforeDir="false" afterPath="$PROJECT_DIR$/../SortPointers/SortBy.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortPointers/SortBy.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5b53c1bbdab7039258a7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-08T10-37-10-0713.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/.cmake/api/v1/reply/target-SortPointers-Debug-11fb36de312559e76782.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/CMakeFiles/SortPointers.dir/SortPointersMain.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/CMakeFiles/SortPointers.dir/SortPointersMain.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/SortPointers.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/SortPointers.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../SortPointers/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RuleOfThreeFiveZero/Exercises/OverloadingMadness/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../RuleOfThreeFiveZero/Exercises/OverloadingMadness/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="1.4" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2kmXbwOZWnqAjB6bXmyZmaAeSDT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.Ranges.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ranges" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ranges" TARGET_NAME="Ranges" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Ranges" RUN_TARGET_NAME="Ranges">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69b08e2b-39d9-4c33-8fac-fcbb1f796209" name="Changes" comment="" />
+      <created>1723889800835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723889800835</updated>
+      <workItem from="1723889802295" duration="2127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>
