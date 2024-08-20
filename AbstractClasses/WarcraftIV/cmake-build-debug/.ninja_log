@@ -1,0 +1,6 @@
+# ninja log v6
+6	458	7458580654528927	CMakeFiles/WarcraftIV.dir/Archmage.cpp.obj	15b144f71cb682fc
+9	463	7458580654568901	CMakeFiles/WarcraftIV.dir/DeathKnight.cpp.obj	64850b46cddfd9af
+1	473	7458580654488937	CMakeFiles/WarcraftIV.dir/main.cpp.obj	9df6bec018fae560
+13	488	7458580654608911	CMakeFiles/WarcraftIV.dir/DrawRanger.cpp.obj	14e5dea05e80db74
+488	582	7458580659351692	WarcraftIV.exe	a6612c54027f49ee
