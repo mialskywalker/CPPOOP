@@ -1,0 +1,3 @@
+C:/Projects/CPPOOP/ExamPrep27042024/Materials/cmake-build-debug/CMakeFiles/Materials.dir
+C:/Projects/CPPOOP/ExamPrep27042024/Materials/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CPPOOP/ExamPrep27042024/Materials/cmake-build-debug/CMakeFiles/rebuild_cache.dir

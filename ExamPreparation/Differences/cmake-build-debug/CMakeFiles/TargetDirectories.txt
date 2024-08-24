@@ -1,0 +1,3 @@
+C:/Projects/CPPOOP/ExamPreparation/Differences/cmake-build-debug/CMakeFiles/Differences.dir
+C:/Projects/CPPOOP/ExamPreparation/Differences/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CPPOOP/ExamPreparation/Differences/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,27 @@
+# ninja log v6
+9	519	7460248376235834	CMakeFiles/CompaniesAgain.dir/Company.cpp.obj	e86c658b730a17d7
+6	523	7460248376205840	CMakeFiles/CompaniesAgain.dir/main.cpp.obj	983b01b7dfea6824
+2	208	7460248544256337	build.ninja	52752b5119b805fa
+8	566	7460248891106733	CMakeFiles/CompaniesAgain.dir/Company.cpp.obj	e86c658b730a17d7
+5	586	7460248891076731	CMakeFiles/CompaniesAgain.dir/main.cpp.obj	983b01b7dfea6824
+8	729	7460250121991130	CMakeFiles/CompaniesAgain.dir/Company.cpp.obj	e86c658b730a17d7
+4	756	7460250121961025	CMakeFiles/CompaniesAgain.dir/main.cpp.obj	983b01b7dfea6824
+9	647	7460250175163403	CMakeFiles/CompaniesAgain.dir/Company.cpp.obj	e86c658b730a17d7
+5	670	7460250175119606	CMakeFiles/CompaniesAgain.dir/main.cpp.obj	983b01b7dfea6824
+10	608	7460250582305246	CMakeFiles/CompaniesAgain.dir/Company.cpp.obj	e86c658b730a17d7
+6	640	7460250582265215	CMakeFiles/CompaniesAgain.dir/main.cpp.obj	983b01b7dfea6824
+9	524	7460251139814914	CMakeFiles/CompaniesAgain.dir/Company.cpp.obj	e86c658b730a17d7
+5	540	7460251139774925	CMakeFiles/CompaniesAgain.dir/main.cpp.obj	983b01b7dfea6824
+9	504	7460251516784870	CMakeFiles/CompaniesAgain.dir/Company.cpp.obj	e86c658b730a17d7
+9	531	7460251664847709	CMakeFiles/CompaniesAgain.dir/Company.cpp.obj	e86c658b730a17d7
+10	527	7460252451877013	CMakeFiles/CompaniesAgain.dir/Company.cpp.obj	e86c658b730a17d7
+5	538	7460252451837020	CMakeFiles/CompaniesAgain.dir/main.cpp.obj	983b01b7dfea6824
+9	527	7460252579608556	CMakeFiles/CompaniesAgain.dir/Company.cpp.obj	e86c658b730a17d7
+5	543	7460252579578535	CMakeFiles/CompaniesAgain.dir/main.cpp.obj	983b01b7dfea6824
+543	633	7460252584952129	CompaniesAgain.exe	82f58aa102cf77e3
+9	530	7460253984603430	CMakeFiles/CompaniesAgain.dir/Company.cpp.obj	e86c658b730a17d7
+9	504	7460254197006620	CMakeFiles/CompaniesAgain.dir/Company.cpp.obj	e86c658b730a17d7
+5	522	7460254196966652	CMakeFiles/CompaniesAgain.dir/main.cpp.obj	983b01b7dfea6824
+10	527	7460254825667101	CMakeFiles/CompaniesAgain.dir/Company.cpp.obj	e86c658b730a17d7
+6	540	7460254825627132	CMakeFiles/CompaniesAgain.dir/main.cpp.obj	983b01b7dfea6824
+540	631	7460254830963350	CompaniesAgain.exe	82f58aa102cf77e3
